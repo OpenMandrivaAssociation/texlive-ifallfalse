@@ -1,6 +1,6 @@
 Name:		texlive-ifallfalse
 Version:	60027
-Release:	1
+Release:	2
 Summary:	Compare a string against a set of other strings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ifallfalse
