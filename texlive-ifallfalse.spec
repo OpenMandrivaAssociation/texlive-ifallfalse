@@ -3,7 +3,7 @@ Version:	60027
 Release:	2
 Summary:	Compare a string against a set of other strings
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ifallfalse
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ifallfalse
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ifallfalse.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ifallfalse.doc.r%{version}.tar.xz
